@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mirzadanish786&label=Profile%20views&color=0e75b6&style=flat" alt="mirzadanish786" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirzadanish786" alt="mirzadanish786" />
-  </a> 
-</p>
 
 - 🔭 I’m currently working on [Vault-Backend(E-commerce)](https://github.com/MirzaDanish786/vault-backend/)
 - 🌱 I’m currently learning **Advanced Backend Architecture, NestJS, and scalable system design**
