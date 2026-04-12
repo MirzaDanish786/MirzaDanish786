@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Hi%20👋%20I'm%20Mirza%20Muhammad%20Danish%20Baig&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
 
-<img src="https://i.ibb.co/9rFjvJf/dev-banner.gif" alt="Developer Banner" width="90%" />
 
 <br/>
 
